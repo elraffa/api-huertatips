@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": "../contact-keeper"
+    },
+    {
+      "path": "."
+    },
+    {
+      "path": "../huerta-react"
+    }
+  ],
+  "settings": {}
+}

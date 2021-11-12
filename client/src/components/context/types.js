@@ -1,0 +1,9 @@
+export const ADD_VERDURA = 'ADD_VERDURA';
+export const DELETE_VERDURA = 'DELETE_VERDURA';
+export const SET_CURRENT = 'SET_CURRENT';
+export const CLEAR_CURRENT = 'CLEAR_CURRENT';
+export const UPDATE_VERDURA = 'UPDATE_VERDURA';
+export const FILTER_VERDURAS = 'FILTER_VERDURAS';
+export const CLEAR_FILTER = 'CLEAR_FILTER';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
